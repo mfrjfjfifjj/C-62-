@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+.link {
+    display: inline;
+    color: orangered;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color: darkorange;
+    font-size: 25px;
+    text-decoration: underline;
+}
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.Iron man{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.profile{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
